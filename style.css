@@ -1,0 +1,22 @@
+
+h1 {
+ text-align: right ;
+ font-size: 15;
+ font-weight: 900;
+ color: darkblue;
+}
+h2 {
+    background-color: brown;
+    color: lavender;
+    text-align: left;
+}
+img.izquierda{
+    float: left;
+}
+img.derecha{
+    float: right;
+}
+p.centro {
+    text-align: center;
+}
+
